@@ -43,7 +43,7 @@ Ensure you have the following installed:
 
     ```env
     DB_CONNECTION=mysql
-    DB_HOST=db
+    DB_HOST=laravel_db
     DB_PORT=3306
     DB_DATABASE=task_management
     DB_USERNAME=root
