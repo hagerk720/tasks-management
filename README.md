@@ -56,7 +56,7 @@ Ensure you have the following installed:
         docker-compose up -d --build
         ```
 
-    wait the image of laravel_db fully running in docker desktop"ready for connections"
+**"Wait until the laravel_db container in Docker Desktop is fully initialized and displays 'ready for connections'."**
 
 4.  Run migrations and seeders:
 
@@ -77,6 +77,7 @@ Ensure you have the following installed:
 Use these credentials:
 
 Username: root
+
 Password: root
 
 ### Steps to Run Locally
