@@ -29,8 +29,8 @@ Ensure you have the following installed:
 1.  Clone the repository:
 
     ```sh
-    git clone
-    cd task-management
+    git clone https://github.com/hagerk720/tasks-management.git
+    cd tasks-management
     ```
 
 2.  Copy the `.env` file:
@@ -84,8 +84,8 @@ Password: root
 1. Clone the repository:
 
     ```sh
-    git clone
-    cd task-management
+    git clone https://github.com/hagerk720/tasks-management.git
+    cd tasks-management
     ```
 
 2. Install dependencies:
@@ -197,6 +197,11 @@ Password: root
 
 ## ERD Diagram
 
+![bandicam 2025-03-07 20-29-56-887](https://github.com/user-attachments/assets/79e75c01-2898-41e7-8c65-44824eb28446)
+
 ## Postman Collection
 
 You can import the Postman collection from the following file: [Postman Collection](tasks_management.postman_collection.json)
+
+
+![bandicam 2025-03-09 23-47-35-080](https://github.com/user-attachments/assets/81b39373-bfec-4674-91c6-ef1e86960d26)
